@@ -1,0 +1,7 @@
+Para cambiarle la contraseña a un usuario deberemos introducir la contraseña que queremos poner seguido de /
+Ej:
+Password: 1234/
+
+
+
+Importante! Dar permisos de administrador
